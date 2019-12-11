@@ -2,6 +2,7 @@
 Source code for the autonomy algorithm for Team Navikai Robosub 
 
 # initial high level source code
+```
 // pseudo code
 main(){
 	// this is how we are going to keep track of time
@@ -189,3 +190,4 @@ NavigateToTarget(current_target){
 	// return that we are successful
 	return 1;
 }
+```
