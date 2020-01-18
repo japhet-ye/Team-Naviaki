@@ -1,6 +1,9 @@
 # Team-Naviaki
 Source code for the autonomy algorithm for Team Navikai Robosub 
 
+# Hardware Used
+We are using the Jetson Xavier, Jetson Nano, and Pixhawk as processor boards that wil run the autonomy software. The idea to use these specific boards is because we wanted to implement Machine Learning algorithms via Computer Vision to allow the submarine to "see" it's targets.
+
 # initial high level source code
 ```
 // pseudo code
